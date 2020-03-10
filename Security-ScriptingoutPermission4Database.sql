@@ -1,4 +1,4 @@
-#Use below to script out the permissions for a particular database
+--Use below to script out the permissions for a particular database
 
 SET NOCOUNT ON
 
