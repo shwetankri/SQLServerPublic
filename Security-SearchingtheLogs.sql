@@ -1,4 +1,4 @@
-#Query to search the Logs for a specific string in the error logs
+--Query to search the Logs for a specific string in the error logs
 SET NOCOUNT ON
 
    DECLARE @ErrorLogCount INT 
