@@ -1,4 +1,4 @@
--- Query to find the important about SQL Server Agent Jobs on your server
+-- Query to find the important information about SQL Server Agent Jobs
 
 SELECT	sj.name Job_Name,
 		sj.description Job_Description, 
